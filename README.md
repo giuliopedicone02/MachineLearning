@@ -7,12 +7,13 @@ Repository creata a scopo didattico per essere utilizzata come backup dei file c
 <!-- * **Cartella Esercizi**: Comprende gli esercizi svolti durante il corso (Soluzioni personali, potrebbero non essere corretti o presentare errori) -->
 
 - **Cartella Lezioni**: Comprende gli appunti presi durante il corso (Potrebbero non essere corretti o presentare errori)
+- **Cartella Slides**: Comprende il materiale fornito dal docente.
 
 ## Authors
 
+- [@Ciccio1307](https://github.com/Ciccio1307)
 - [@giuliopedicone02](https://www.github.com/giuliopedicone02)
 - [@VincenzoVillanova](https://github.com/VincenzoVillanova)
-- [@Ciccio1307](https://github.com/Ciccio1307)
 
 ## Feedback
 
